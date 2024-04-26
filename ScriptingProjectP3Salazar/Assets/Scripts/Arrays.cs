@@ -15,10 +15,6 @@ public class Array : MonoBehaviour
             Debug.Log("Player Number " + i + " is named " + players[i].name);
         }
 
-        // Update is called once per frame
-        void Update()
-        {
-
-        }
+        
     }
 }
